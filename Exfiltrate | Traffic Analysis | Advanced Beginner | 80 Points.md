@@ -13,7 +13,7 @@ compromised systems, and halt the exfiltration before more data is lost. Flag Fo
 
 ### 1. We are provided with a pcapng file, let's take a look at it in WireShark
 
-<img src="pcap1.png" width="400"/>
+<img src="files/pcap1.png" width="400"/>
 The protocol Hierachy stats show us text data has been sent, let's take a closer look
 
 
